@@ -31,4 +31,13 @@ Will be updated soon...
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| tbd | tbd | tbd | tbd |
+| [Next Generation SharePoint 2016](http://www.managementcircle.de/va_microsites/sharepoint.html) | Munich,&nbsp; | 2016-02-16 | SharePoint als Anwendungsplattform erweitern |
+| [Office 365 Konferenz 2016](http://www.office365konferenz.net/) | Cologne,&nbsp; | 2016-01-10 | Office 365 als Anwendungsplattform erweitern |
+| [Best Practice Days SharePoint 2015](http://www.managementcircle.de/seminar/best-practice-days-sharepointR.html) | Vienna,&nbsp; | 2015-10-20 | SharePoint als Anwendungsplattform erweitern |
+| [Prozess Management Forum 2015](http://businesscircle.at/prozesse-organisation/konferenz/prozess-management) | Vienna,&nbsp; | 2015-06-17 | BPM auf Wolke 7 |
+| [ShareConf 2015](http://www.shareconf.de/) | Dusseldorf,&nbsp; | 2015-06-09 | Introducing K2 appit for SharePoint |
+| [ShareCamp 2015](http://sharecamp.azurewebsites.net/) | Munich,&nbsp; | 2015-05-30 | SharePoint Workflow Discussion Board | [SlideShare](https://www.slideshare.net/timmes/share-camp2015-timczubaykosp-workflow-diskussionsrunde)
+| [Office 365 Konferenz 2015](http://www.office365konferenz.net/) | Cologne,&nbsp; | 2015-04-24 | Office 365: Workflow and Case management meets Power BI |
+| [Metalogix Roadshow](https://www.metalogix.com/events) | Cologne,&nbsp; | 2015-04-17 | SharePoint als Anwendungsplattform erweitern |
+| [Affecto Forum 2014](http://www.affectoforum.fi) | Helsinki,&nbsp; | 2014-10-26 | Process optimization for your business |
+| [ShareConf 2014](http://www.shareconf.de/) | Dusseldorf,&nbsp; | 2014-07-02  | Formulare mit Pepp - von 0 auf 100 mit K2 smartforms | [SlideShare](https://www.slideshare.net/timmes/formulare-mit-pepp-von-0-auf-100-mit-k2-smartforms)

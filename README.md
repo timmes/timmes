@@ -25,7 +25,10 @@ He loves .NET & C# since he was first introduced to it in 2005 and now moved to 
 
 ## 💾 Open Source Projects
 
-Will be updated soon...
+- [timmes.Boxstarter](https://github.com/timmes/timmes.Boxstarter) | Boxstarter script to automate a basic dev machine installation.
+- [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).
+- [K2Field.Controls.IPAddress](https://github.com/timmes/K2Field.Controls.IPAddress) | A very simple, custom K2 smartforms control to retrieve & show the user's IP address.
+
 
 ## 📢 Past Presentations
 

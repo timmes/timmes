@@ -4,7 +4,7 @@
   <img src="images/tim-03.png" width="200">
   <h1 align="center">Tim Huettemeister</h1>
   <p align="center">
-    ∙ Technical Learning Consultant - @ AWS Skills Guild ∙<br>
+    ∙ Technical Learning Consultant @ AWS Skills Guild ∙<br>
     ∙ Passionate about Tech, Innovation, Agile and Digital Transformation. Living in Germany. Been an expat in the UAE. ∙<br>
   </p>
 </p>

@@ -4,20 +4,21 @@
   <img src="images/tim-03.png" width="200">
   <h1 align="center">Tim Huttemeister</h1>
   <p align="center">
-    ∙ Senior Consultant Digital &amp; Technical Lead ∙<br>
-    ∙ Ambitious. Geek. Founder. Editor. Into Tech. Abu Dhabi & Dubai ∙<br>
+    ∙ Technical Learning Consultant - @ AWS Skills Guild ∙<br>
+    ∙ Passionate about #Tech, #Innovation, #Agile and #DigitalTransformation. Living in Germany 🇩🇪. Been an expat in the UAE 🇦🇪. ∙<br>
   </p>
 </p>
 
 ---
 
 ## 🏄🏻 Bio
-Tim is Senior Consultant Digital in a Cybersecurity company in Abu Dhabi, UAE. Previously to his current role, he served as a Senior Technical Specialist for <a target="_blank" href="https://www.k2.com">K2</a> in the EMEA region. 
-He loves .NET & C# since he was first introduced to it in 2005 and now moved to the .NET Core technology stack. If he's not working on customer projects, Tim enjoys the sun and beaches of Abu Dhabi, wakeboarding, meeting likeminded people and CrossFit. 
+Tim is driving companies and international teams, structuring their work using agile methodologies and tools. He coaches, grows and optimizes teams. To accomplish this, he is focusing on being a servant leader, listens and supports, and quickly adapts to new insights.
+
+He has enjoyed several technical & managerial positions throughout his career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space. If he's not working on customer projects, Tim enjoys the life with his little family, training for a Triathlon, CrossFit and meeting likeminded people. 
 
 ## 💬 Social Media
 
-- 🐦 [Twitter @timmes](https://twitter.com/timmes)
+- 🐦 [Twitter @thuettemeister](https://twitter.com/thuettemeister)
 - 💻 [LinkedIn timhuettemeister](https://www.linkedin.com/in/timhuettemeister/)
 - 📧 [Email tim.huttemeister@gmail.com](mailto:tim.huttemister@gmail.com)
 - ✏️ [Medium @timmes](https://medium.com/@timmes)
@@ -25,6 +26,7 @@ He loves .NET & C# since he was first introduced to it in 2005 and now moved to 
 
 ## 💾 Open Source Projects
 
+- [tweet-del](https://github.com/timmes/tweet-del) | Delete your tweets using a simple script written in Golang.
 - [timmes.Boxstarter](https://github.com/timmes/timmes.Boxstarter) | Boxstarter script to automate a basic dev machine installation.
 - [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).
 - [K2Field.Controls.IPAddress](https://github.com/timmes/K2Field.Controls.IPAddress) | A very simple, custom K2 smartforms control to retrieve & show the user's IP address.

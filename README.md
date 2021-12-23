@@ -26,6 +26,7 @@ He has enjoyed several technical & managerial positions throughout his career in
 
 ## 💾 Open Source Projects
 
+- [tampermonkey-scripts](https://github.com/timmes/tampermonkey-scripts) | My tampermonkey script collection.
 - [tweet-del](https://github.com/timmes/tweet-del) | Delete your tweets using a simple script written in Golang.
 - [timmes.Boxstarter](https://github.com/timmes/timmes.Boxstarter) | Boxstarter script to automate a basic dev machine installation.
 - [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).

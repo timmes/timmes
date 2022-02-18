@@ -1,30 +1,18 @@
-<p align="center">
-  <img src="images/tim-01.png" width="200">
-  <img src="images/tim-02.png" width="200">
-  <img src="images/tim-03.png" width="200">
-  <h1 align="center">Tim Huettemeister</h1>
-  <p align="center">
-    ∙ Technical Learning Consultant @ AWS Skills Guild ∙<br>
-    ∙ Passionate about Tech, Innovation, Agile and Digital Transformation. Living in Germany. Been an expat in the UAE. ∙<br>
-  </p>
+### Moin! What's on your mind?
+
+<p align="center" valign="center">
+  <a href="https://medium.com/@timmes">✏️ Blog</a> | 
+  <a href="https://twitter.com/thuettemeister">🐦 Twitter</a> | 
+  <a href="https://www.linkedin.com/in/timhuettemeister">💻 LinkedIn</a>
 </p>
 
 ---
 
-## 🏄🏻 Bio
-Tim is driving companies and international teams, structuring their work using agile methodologies and tools. He coaches, grows and optimizes teams. To accomplish this, he is focusing on being a servant leader, listens and supports, and quickly adapts to new insights.
+#### 🏄🏻 Who is this Tim?
+I'm a Technical Learning Consultant at [Amazon Web Services](https://aws.amazon.com/) since the beginning of 2021. Before joining AWS, I held several technical & managerial positions throughout my career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space.
+When I'm not working on customer projects, I enjoy the life with my little family, training for a Triathlon, CrossFit and meeting likeminded people. 
 
-He has enjoyed several technical & managerial positions throughout his career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space. If he's not working on customer projects, Tim enjoys the life with his little family, training for a Triathlon, CrossFit and meeting likeminded people. 
-
-## 💬 Social Media
-
-- 🐦 [Twitter @thuettemeister](https://twitter.com/thuettemeister)
-- 💻 [LinkedIn timhuettemeister](https://www.linkedin.com/in/timhuettemeister/)
-- 📧 [Email tim.huttemeister@gmail.com](mailto:tim.huttemister@gmail.com)
-- ✏️ [Medium @timmes](https://medium.com/@timmes)
-- :octocat: [GitHub timmes](https://github.com/timmes)
-
-## 💾 Open Source Projects
+#### 💾 Open Source Projects
 
 - [tampermonkey-scripts](https://github.com/timmes/tampermonkey-scripts) | My tampermonkey script collection.
 - [tweet-del](https://github.com/timmes/tweet-del) | Delete your tweets using a simple script written in Golang.
@@ -32,8 +20,13 @@ He has enjoyed several technical & managerial positions throughout his career in
 - [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).
 - [K2Field.Controls.IPAddress](https://github.com/timmes/K2Field.Controls.IPAddress) | A very simple, custom K2 smartforms control to retrieve & show the user's IP address.
 
+#### 📬 How to reach me
 
-## 📢 Past Presentations
+- Email on: `tim,huttemeister` at `gmail.com`
+- Social media: [Twitter](https://twitter.com/thuettemeister),
+  [LinkedIn](https://www.linkedin.com/in/timhuettemeister)
+  
+#### 📢 Past Presentations (before COVID-19)
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|

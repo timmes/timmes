@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/timhuettemeister">💻 LinkedIn</a>
 </p>
 
----
 
 #### 🏄🏻 Who is this Tim?
 I'm a Technical Learning Consultant at [Amazon Web Services](https://aws.amazon.com/) since the beginning of 2021. Before joining AWS, I held several technical & managerial positions throughout my career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space.
@@ -22,7 +21,7 @@ When I'm not working on customer projects, I enjoy the life with my little famil
 
 #### 📬 How to reach me
 
-- Email on: `tim,huttemeister` at `gmail.com`
+- Email on: `tim.huttemeister` at `gmail.com`
 - Social media: [Twitter](https://twitter.com/thuettemeister),
   [LinkedIn](https://www.linkedin.com/in/timhuettemeister)
   

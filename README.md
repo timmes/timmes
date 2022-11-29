@@ -8,7 +8,7 @@
 
 
 #### 🏄🏻 Who is this Tim?
-I'm a Senior Technical Learning Consultant at [Amazon Web Services](https://aws.amazon.com/) since the beginning of 2021. Before joining AWS, I held several technical & managerial positions throughout my career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space.
+I'm a Senior Skills Transformation Architect at [Amazon Web Services](https://aws.amazon.com/) since the beginning of 2021. Before joining AWS, I held several technical & managerial positions throughout my career in IT consulting, software engineering, technical/pre sales, project management and strategy, and founded own companies in the mobile app development space.
 When I'm not working on customer projects, I enjoy the life with my little family, training for a Triathlon, CrossFit and meeting likeminded people. 
 
 #### 💾 Open Source Projects

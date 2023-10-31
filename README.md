@@ -2,7 +2,6 @@
 
 <p align="center" valign="center">
   <a href="https://medium.com/@timmes">✏️ Blog</a> | 
-  <a href="https://twitter.com/thuettemeister">🐦 Twitter</a> | 
   <a href="https://www.linkedin.com/in/timhuettemeister">💻 LinkedIn</a>
 </p>
 
@@ -23,5 +22,4 @@ When I'm not working on customer projects, I enjoy the life with my little famil
 #### 📬 How to reach me
 
 - Email on: `tim.huttemeister` at `gmail.com`
-- Social media: [Twitter](https://twitter.com/thuettemeister),
-  [LinkedIn](https://www.linkedin.com/in/timhuettemeister)
+- Social media: [LinkedIn](https://www.linkedin.com/in/timhuettemeister)

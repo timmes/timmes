@@ -7,7 +7,7 @@
 
 ## Technology leader by day, basketball player by weekend – bridging the gap between business vision and technical reality.
 
-I'm Tim, a Senior Enterprise Skills Transformation Architect at [Amazon Web Services](https://aws.amazon.com), where I've been helping organizations unlock their cloud potential since early 2021. My superpower? Translating complex technical concepts into actionable business outcomes while building the teams that make it all happen.
+I'm Tim, a Senior Enterprise Skills Transformation Architect at [Amazon Web Services](https://aws.amazon.com), where I've been helping organizations unlock their cloud and AI potential since early 2021. My superpower? Translating complex technical concepts into actionable business outcomes while building the teams that make it all happen.
 
 #### 🏄🏻 What I Bring
 I live at the intersection of people and technology, developing scalable training programs that have upskilled thousands of customers, inventing new job roles within AWS Training & Certification, and implementing cutting-edge security frameworks. My toolkit includes technology leadership, public speaking mastery, and a relentless "builder mentality."
@@ -21,6 +21,7 @@ Ready to transform your organization's technical capabilities? Let's connect.
 
 #### 💾 Open Source Projects
 
+- [daily-newsletter-digest](https://github.com/timmes/daily-newsletter-digest) | An AI agent curated summary of my daily newsletters.
 - [awsserverless-knowledgebase](https://github.com/timmes/awsserverless-knowledgebase) | A curated collection of links to stay up to date with everything serverless on AWS.
 - [tampermonkey-scripts](https://github.com/timmes/tampermonkey-scripts) | My tampermonkey script collection.
 - [tweet-del](https://github.com/timmes/tweet-del) | Delete your tweets using a simple script written in Golang.

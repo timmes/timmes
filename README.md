@@ -21,7 +21,7 @@ Ready to transform your organization's technical capabilities? Let's connect.
 
 #### 💾 Open Source Projects
 
-- [daily-newsletter-digest](https://github.com/timmes/daily-newsletter-digest) | An AI agent curated summary of my daily newsletters.
+- [daily-newsletter-digest](https://github.com/timmes/daily-newsletter-digest) | An AI-powered daily digest of my newsletter subscriptions.
 - [tampermonkey-scripts](https://github.com/timmes/tampermonkey-scripts) | My tampermonkey script collection.
 - [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).
 

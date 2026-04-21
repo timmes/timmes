@@ -19,11 +19,11 @@ Before AWS, I wore many hats across the tech landscape: IT consultant, software 
 When I'm not architecting solutions, you'll find me on the basketball court, working on DIY projects, enjoying the great outdoors, or crushing it at CrossFit with my family.
 Ready to transform your organization's technical capabilities? Let's connect.
 
-#### 💾 Open Source Projects
+#### 💾 Active Open Source Projects
 
 - [daily-newsletter-digest](https://github.com/timmes/daily-newsletter-digest) | An AI-powered daily digest of my newsletter subscriptions.
-- [tampermonkey-scripts](https://github.com/timmes/tampermonkey-scripts) | My tampermonkey script collection.
-- [K2Field.PreReq](https://github.com/timmes/K2Field.PreReq) | PowerShell script to install all needed prerequisites for K2 (Windows roles & features).
+- [CloudComp](https://github.com/timmes/cloudcomp) | A zero-setup, browser-based gamification platform that turns organizational learning into an engaging competition.
+- [nanoclaw-nova-recipes](https://github.com/timmes/nanoclaw-nova-recipes) | Real-world customizations for NanoClaw and recipes behind Nova, my family's assistant: what it does every day, the CLAUDE.md sections that drive it, the scheduled tasks that trigger it, and the templates it uses.
 
 #### 📬 How to reach me
 
